@@ -13,6 +13,8 @@ A command list can be found [here](https://projectlounge.pw/esmBot/help.html).
 
 If you want to self-host the bot, a guide can be found [here](https://github.com/esmBot/esmBot/wiki/Setup).
 
+Fork of this bot for personal use, see below for credits.
+
 ## Credits
 Icon by [Steel](https://twitter.com/MintBurrow).
 All images, sounds, and fonts are copyright of their respective owners.
